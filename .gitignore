@@ -1,0 +1,6 @@
+# Ignore built files
+node_modules/
+dist/
+
+# Ignore sensitive files or credentials
+.env
